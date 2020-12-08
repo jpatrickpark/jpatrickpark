@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
+You can find me on [Twitter][1],  or on [LinkedIn][2].
+
 
 ## 🔧 Technologies & Tools
 
@@ -22,10 +23,6 @@ You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
 <!-- icons with padding -->
 
 <!-- icons without padding -->
-
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
