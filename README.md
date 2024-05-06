@@ -1,6 +1,10 @@
-### Hi there 👋
+[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://jpatrickpark.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpatrickpark/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jpatrickpark)
+[![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cplFxEkAAAAJ)
 
-You can find me on [Twitter][1],  or on [LinkedIn][2].
+
+I'm a XX at XX doing research on X.
 
 
 ## 🔧 Technologies & Tools
@@ -8,14 +12,9 @@ You can find me on [Twitter][1],  or on [LinkedIn][2].
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=cdd5e0)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=cdd5e0)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=cdd5e0)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=cdd5e0)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=cdd5e0)
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=cdd5e0)
-![](https://img.shields.io/badge/Tools-Datadog-informational?style=flat&logo=datadog&logoColor=white&color=cdd5e0)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=cdd5e0)
 
 
 <!-- links to social media icons -->
